@@ -1,2 +1,2 @@
 # TP Merge Request 
-Ligne à modifier en conflit
+Ligne modifiee par branche 1
