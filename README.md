@@ -1,2 +1,6 @@
 # TP Merge Request 
-Ligne à modifier en conflit
+<<<<<<< Updated upstream
+Ligne modifiee par branche 1
+=======
+Ligne modifiee par branche 2
+>>>>>>> Stashed changes
